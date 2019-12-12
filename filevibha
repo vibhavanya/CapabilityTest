@@ -2,6 +2,10 @@ Hello
 My name is vibha
 Oaky 
 Here i am trying to do merge conflict
+<<<<<<< HEAD
 ertyuio
 ertyuiopxcvbnm
 ertyuiop;lmnbvcvbnm,
+=======
+wertyuikjhgfcx
+>>>>>>> 035373319f59802d3a746c0b7acceec3afa18f95
